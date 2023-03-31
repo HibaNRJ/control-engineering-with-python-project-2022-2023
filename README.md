@@ -8,13 +8,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number ❔
 
-  - Student 1: ikram nrhailat 'ikram-hue'
+  - Student 1: Ikram NRHAILAT 'ikram-hue'
   
-  - Student 2: wiam sabri 'wiamsabri'
+  - Student 2: Wiam SABRI 'wiamsabri'
   
-  - Student 3: hiba narja 'HibaNRJ'
+  - Student 3: Hiba NARJA 'HibaNRJ'
 
-  - Student 4: chaimaa atata  'Chaimaa937'
+  - Student 4: Chaimaa ATATA  'Chaimaa937'
 ## Getting Started
 
   0. **:octocat: Sign into GitHub.**   
